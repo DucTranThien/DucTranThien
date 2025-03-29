@@ -8,14 +8,14 @@
 - 🌱 I’m learning Java and Spring Boot to expand backend capabilities
 - 🧠 I enjoy learning by doing and exploring new technologies
 - 💬 Ask me about anything related to web development
-- 📫 How to reach me: **thien.duc.dev@gmail.com**
+- 📫 How to reach me: **ductran06629@gmail.com**
 
 ---
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/thien-duc-dev)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/yourname)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=flat&logo=github&logoColor=white)](https://github.com/thien-duc-dev)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2?style=flat&logo=facebook&logoColor=white)]([https://facebook.com/yourname](https://www.facebook.com/profile.php?id=100027834360141))
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=flat&logo=github&logoColor=white)]([https://github.com/thien-duc-dev](https://github.com/DucTranThien))
 
 ---
 
@@ -33,8 +33,4 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/VS-5C2D91?style=flat&logo=visualstudio&logoColor=white)
 
----
 
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=thien-duc-dev&theme=radical&show_icons=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thien-duc-dev&layout=compact&theme=radical)
